@@ -51,4 +51,4 @@ when **Islam Makhachev was still reigning in lightweight**, and **Ilia Topuria h
 That context matters because the data reflects the roster and hype dynamics of that period — showing how fast business value can change, even when rankings lag behind.
 
 **Contact**
-If you're into sports analytics, MMA data, or business strategy — let’s connect on LinkedIn[https://www.linkedin.com/in/arsengaziz/] or via [infogazizarsen@gmail.com].
+If you're into sports analytics, MMA data, or business strategy — let’s connect on LinkedIn [https://www.linkedin.com/in/arsengaziz/] or via [infogazizarsen@gmail.com].
