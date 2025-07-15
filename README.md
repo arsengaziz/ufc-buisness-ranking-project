@@ -4,7 +4,7 @@
 **About the Project:**
 
 This project ranks UFC fighters not just by athletic performance but by their business value.
-In today’s fight game, value isn’t only about wins - it’s about hype, social influence, marketability, and the ability to generate ROI for the organization.
+In today’s fight game, value isn’t only about wins, it’s about hype, social influence, marketability, and the ability to generate ROI for the organization.
 The goal is to support matchmaking, promotion strategy, and fighter investment decisions using data.
 
 **Objectives:**
