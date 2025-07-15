@@ -3,7 +3,7 @@
 
 **About the Project:**
 
-This project ranks UFC fighters not just by athletic performance — but by their business value.
+This project ranks UFC fighters not just by athletic performance but by their business value.
 In today’s fight game, value isn’t only about wins — it’s about hype, social influence, marketability, and the ability to generate ROI for the organization.
 The goal is to support matchmaking, promotion strategy, and fighter investment decisions using data.
 
@@ -35,17 +35,17 @@ Google Sheets / Excel (manual markup)
 
 **Visualizations (Planned):**
 
-Bar Plot – Top 10 fighters by business value
-Scatter Plot – Followers vs Fight Frequency vs Purse (with Hype color scale)
-Heatmap – Correlation between all metrics
-Boxplot – Purse distribution by fighter rank
-Timeline – Fighter activity/inactivity periods
+Bar Plot - Top 10 fighters by business value
+Scatter Plot - Followers vs Fight Frequency vs Purse (with Hype color scale)
+Heatmap - Correlation between all metrics
+Boxplot - Purse distribution by fighter rank
+Timeline - Fighter activity/inactivity periods
 
 **Disclaimer**
 
 This project is fan-made and not affiliated with UFC.
 Data is partially collected manually or estimated for educational purposes.
-This project was started **before major shifts in the UFC landscape** —  
+This project was started **before major shifts in the UFC landscape** -  
 when **Islam Makhachev was still reigning in lightweight**, and **Ilia Topuria hadn't yet taken over the division**.
 
 That context matters because the data reflects the roster and hype dynamics of that period — showing how fast business value can change, even when rankings lag behind.
