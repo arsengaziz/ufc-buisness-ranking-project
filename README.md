@@ -45,7 +45,7 @@ Timeline - Fighter activity/inactivity periods
 
 This project is fan-made and not affiliated with UFC.
 Data is partially collected manually or estimated for educational purposes.
-This project was started **before major shifts in the UFC landscape** -  
+This project was started **before major shifts in the UFC landscape** 
 when **Islam Makhachev was still reigning in lightweight**, and **Ilia Topuria hadn't yet taken over the division**.
 
 That context matters because the data reflects the roster and hype dynamics of that period — showing how fast business value can change, even when rankings lag behind.
